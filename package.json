@@ -1,0 +1,21 @@
+{
+  "name": "bot-mail-scripts",
+  "version": "1.0.0",
+  "description": "Scripts for fetching emails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "ganache-core": "^2.13.2",
+    "imap": "^0.8.19",
+    "mailparser": "^3.6.9",
+    "multiple-queue": "^1.1.2",
+    "node-imap": "^0.9.6",
+    "web3": "^4.5.0"
+  },
+  "devDependencies": {}
+}
